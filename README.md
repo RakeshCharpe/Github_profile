@@ -76,7 +76,7 @@
 
 14. Click on Create Pull Request.
 
-15. Congrats✌🎉  You have made a PR to the awesome-javascript-projects boom . Wait for your submission to be accepted and your PR to be merged.
+15. Congrats✌🎉  You have made a PR to the **Github_profile** project boom . Wait for your submission to be accepted and your PR to be merged.
 
 
 
