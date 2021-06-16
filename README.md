@@ -1,4 +1,6 @@
 # Github_profile
+  You can preview project by visiting this link: 
+  https://rakeshcharpe.github.io/Github_profile/
 ## Features:
 
 1. Search by name
